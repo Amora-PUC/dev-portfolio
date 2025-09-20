@@ -5,7 +5,7 @@ Este é meu repositório de apresentação pessoal!
 Aqui você pode conhecer um pouco mais
 
 ## Visão Geral
-Cursando: Ciência da Computação (4º Período)
+Cursando: Ciência da Computação (4º Período) \n
 Instituição: Pontifícia Universidade Católica de São Paulo
 Cargo atual: em busca de oportunidade
 Tecnologias: C, C++, C#, JAVA.
