@@ -1,4 +1,4 @@
-#dev-portfolio
+# dev-portfolio
 
 Olá! Meu nome é Amora! <br/>
 Este é meu repositório de apresentação pessoal! <br/>
